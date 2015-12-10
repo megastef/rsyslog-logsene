@@ -1,6 +1,6 @@
-# What?
+# rsyslog-logsene docker file
 
-This is a pre-configured rsyslog server ready to ship logs to [Logsene](https://www.sematext.com/logsene/)
+This is a pre-configured rsyslog server in a Docker container, ready to ship logs to [Logsene](https://www.sematext.com/logsene/)
 - UDP/TCP/RELP input
 - Elasticsearch bulk inserts 
 - HTTPS
