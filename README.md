@@ -12,6 +12,7 @@ Very efficient, secure, easy to use ...
 
 ```
 git clone https://github.com/megastef/rsyslog-logsene.git
+cd rsyslog-logsene
 docker build -t sematext/rsyslog-logsene .
 ```
 
