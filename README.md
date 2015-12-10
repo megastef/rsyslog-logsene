@@ -7,7 +7,6 @@ This is a pre-configured rsyslog server in a Docker container, ready to ship log
 
 Very efficient, secure, easy to use ...
 
-Including Buffers
 
 # Installation
 
