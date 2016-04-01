@@ -19,5 +19,5 @@ docker build -t sematext/rsyslog-logsene .
 # Usage
 
 ```
-docker run -d -e LOGSENE_TOKEN=TOKEN -p1514:514 sematext/rsyslog-logsene 
+docker run -d -e LOGSENE_TOKEN=TOKEN -p 514:514/udp -p 514:514/tcp sematext/rsyslog-logsene 
 ```
